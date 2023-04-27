@@ -1,0 +1,58 @@
+Create a Static Website (Do not use Bootstrap!)
+
+Note: A static website is one where the content is fixed and does not change dynamically. The website is typically coded in HTML, CSS, and some JavaScript, and is hosted on a web server without the need for server-side processing or database integration.
+
+
+
+Option 1:
+
+
+Website Name: "Sunny Skies Beach Resort"
+
+
+Homepage:
+  - Welcome message and a hero image of a beach with clear blue skies. See https://www.w3schools.com/howto/howto_css_hero_image.asp
+  - Navigation bar with links to "Home", "Rooms & Rates", "Amenities", "Location", and "Contact".
+  - Brief information about the resort, including its location, amenities, and contact information.
+  - Call-to-action (CTA) button to book a room.
+
+
+Rooms & Rates Page:
+  - Details about the different types of rooms available, including room descriptions, photos, and pricing.
+  - Comparison chart showing the rates for each room type.
+  - Reservation form or CTA button to book a room.
+
+
+Amenities Page:
+  - List of amenities offered at the resort, such as swimming pool, spa, restaurant, fitness center, etc.
+  - Descriptions and photos of each amenity.
+  - Additional information about any special offers or promotions.
+
+
+Location Page:
+  - Map showing the resort's location and nearby attractions, such as the beach, restaurants, and local points of interest.
+  - Directions to the resort from major airports or cities.
+  - Information about local transportation options.
+
+
+Contact Page:
+  - Contact information, including address, phone number, and email address.
+  - Contact form for inquiries or reservations.
+  - Links to the resort's social media profiles.
+
+
+Footer:
+  - Copyright information, privacy policy, and terms of use.
+  - Social media icons for easy access to the resort's social media profiles.
+  - Navigation links to the main pages of the website for easy navigation.
+
+
+
+  Ideas
+
+  https://guidetothephilippines.ph/articles/ultimate-guides/best-palawan-resorts
+
+  https://astoriapalawan.com/
+  https://www.matinlocresort.com/
+  https://www.elnidoresorts.com/pangulasian-island/
+
